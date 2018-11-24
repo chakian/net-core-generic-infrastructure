@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChakGenericCore", "ChakGenericCore\ChakGenericCore.csproj", "{1F80005F-B9AF-4123-9216-E33F91E87118}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{CB7A8E99-AEF8-4B40-B53E-05F0FEAF2C2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F80005F-B9AF-4123-9216-E33F91E87118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F80005F-B9AF-4123-9216-E33F91E87118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F80005F-B9AF-4123-9216-E33F91E87118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F80005F-B9AF-4123-9216-E33F91E87118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F80005F-B9AF-4123-9216-E33F91E87118} = {CB7A8E99-AEF8-4B40-B53E-05F0FEAF2C2C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC00BAE-0E42-4EA2-ADC0-5D6ACFCEB6C3}
+	EndGlobalSection
+EndGlobal
