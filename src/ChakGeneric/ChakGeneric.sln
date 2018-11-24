@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChakGenericCore", "ChakGene
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{CB7A8E99-AEF8-4B40-B53E-05F0FEAF2C2C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{719B43D3-302D-4258-8C26-D30D5F8285B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChakGenericPersistence", "ChakGenericPersistence\ChakGenericPersistence.csproj", "{B662C2A0-0090-41A7-BB25-26FA7F1E1A86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{1F80005F-B9AF-4123-9216-E33F91E87118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F80005F-B9AF-4123-9216-E33F91E87118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F80005F-B9AF-4123-9216-E33F91E87118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B662C2A0-0090-41A7-BB25-26FA7F1E1A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B662C2A0-0090-41A7-BB25-26FA7F1E1A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B662C2A0-0090-41A7-BB25-26FA7F1E1A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B662C2A0-0090-41A7-BB25-26FA7F1E1A86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{1F80005F-B9AF-4123-9216-E33F91E87118} = {CB7A8E99-AEF8-4B40-B53E-05F0FEAF2C2C}
+		{B662C2A0-0090-41A7-BB25-26FA7F1E1A86} = {719B43D3-302D-4258-8C26-D30D5F8285B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2EC00BAE-0E42-4EA2-ADC0-5D6ACFCEB6C3}
